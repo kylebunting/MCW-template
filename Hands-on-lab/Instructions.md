@@ -17,6 +17,11 @@ The template files contained in this directory provide the basic format and layo
     * **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
 3. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
 
+### Setup
+
+1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
+2. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
+
 ### HOL-step-by-step
 
 1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
