@@ -15,14 +15,16 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 Updated MONTH YEAR
 
-> TODO: Insert hands-on lab abstract
-
 If you have not yet completed the steps to set up your environment in [Before the hands-on lab](./Before%20the%20lab.md), you will need to do that before proceeding.
 
 ## Contents
 
 > TODO: Insert your table of contents, using the below format
 
+* [Abstract](#abstract)
+* [Overview](#overview)
+* [Solution architecture](#solution-architecture)
+* [Requirements](#requirements)
 * [Exercise 1:](#exercise-1-)
   * [Task 1:](#task-1-)
   * [Task 2:](#task-2-)
@@ -34,6 +36,32 @@ If you have not yet completed the steps to set up your environment in [Before th
   * [Task 2:](#task-2-)
 * [After the hands-on lab](#after-the-hands-on-lab)
   * [Task 1: Delete the resource group](#task-1-delete-the-resource-group)
+
+## Abstract
+
+> TODO: Insert hands-on lab abstract
+
+## Overview
+
+> TODO: Insert hands-on lab overview
+
+## Solution architecture
+
+Below is a diagram of the solution architecture you will build in this lab. Please study this carefully, so you understand the whole of the solution as you are working on the various components.
+
+> TODO: Replace ALT-TEXT below with appropriate text. This assumes you have named your preferred solution image preferred-solution-architecture.png, and that it is in the Hands-on-lab/media folder.
+
+![Diagram of the preferred solution... ALT-TEXT](./media/preferred-solution-architecture.png "Preferred high-level architecture")
+
+## Requirements
+
+> TODO: Insert requirements for your lab
+
+* Microsoft Azure subscription must be pay-as-you-go or MSDN
+  * Trial subscriptions will not work
+* A virtual machine configured with:
+  * ...
+  * ...
 
 ## Exercise 1: Exercise name
 

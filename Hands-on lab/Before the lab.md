@@ -16,6 +16,30 @@ In the Before the hands-on lab exercise, you will set up your environment for us
 * [Task 2: ...](#task-2-)
 * [Task 3: ...](#task-3-)
 
+### Task 1: Task name
+
+> TODO: Insert the task name and description
+
+1. ...
+2. ...
+3. ...
+
+### Task 2: Task name
+
+> TODO: Insert the task name and description
+
+1. ...
+2. ...
+3. ...
+
+### Task 3: Task name
+
+> TODO: Insert the task name and description
+
+1. ...
+2. ...
+3. ...
+
 *These steps should be completed prior to starting the rest of the Lab.*
 
 ## Next steps
