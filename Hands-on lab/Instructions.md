@@ -4,11 +4,14 @@ The template files contained in this directory provide the basic format and layo
 
 ## Contents
 
-* [Readme](./README.md)
-* [HOL-step-by-step](./HOL-step-by-step-LAB-NAME.md)
-* [HOL-unguided](./HOL-unguided-LAB-NAME.md)
+* [Readme](#readme)
+* [Before the lab](#before-the-lab)
+* [HOL-step-by-step](#hol-step-by-step)
+* [HOL-unguided](#hol-unguided)
 
 ## Instructions
+
+For each of the files specified below, follow the steps listed.
 
 ### Readme
 
@@ -17,7 +20,7 @@ The template files contained in this directory provide the basic format and layo
     * **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
 3. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
 
-### Setup
+### Before the lab
 
 1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
 2. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.

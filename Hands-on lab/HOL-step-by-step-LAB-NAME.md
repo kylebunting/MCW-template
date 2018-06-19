@@ -17,7 +17,7 @@ Updated MONTH YEAR
 
 > TODO: Insert hands-on lab abstract
 
-If you have not yet completed the steps to set up your environment in [Before the hands-on lab](./Setup.md), you will need to do that before proceeding.
+If you have not yet completed the steps to set up your environment in [Before the hands-on lab](./Before%20the%20lab.md), you will need to do that before proceeding.
 
 ## Contents
 
