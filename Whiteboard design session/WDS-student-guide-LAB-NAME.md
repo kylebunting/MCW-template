@@ -17,15 +17,15 @@ Updated MONTH YEAR
 
 ## Contents
 
-* [Abstract](#abstract)
-* [Step 1: Review the customer case study](#step-1-review-the-customer-case-study)
-  * [Customer situation](#customer-situation)
-  * [Customer needs](#customer-needs)
-  * [Customer objections](#customer-objections)
-  * [Infographic for common scenarios](#infographic-for-common-scenarios)
-* [Step 2: Design a proof of concept solution](#step-2-design-a-proof-of-concept-solution)
-* [Step 3: Present the solution](#step-3-present-the-solution)
-* [Wrap-up](#wrap-up)
-* [Additional references](#additional-references)
+- [Abstract](#abstract)
+- [Step 1: Review the customer case study](#step-1-review-the-customer-case-study)
+  - [Customer situation](#customer-situation)
+  - [Customer needs](#customer-needs)
+  - [Customer objections](#customer-objections)
+  - [Infographic for common scenarios](#infographic-for-common-scenarios)
+- [Step 2: Design a proof of concept solution](#step-2-design-a-proof-of-concept-solution)
+- [Step 3: Present the solution](#step-3-present-the-solution)
+- [Wrap-up](#wrap-up)
+- [Additional references](#additional-references)
 
 > TODO: Copy student guide content from trainer guide and paste below once that content is approved, and prior to merge with master branch.

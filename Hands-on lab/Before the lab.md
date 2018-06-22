@@ -12,9 +12,9 @@ In the Before the hands-on lab exercise, you will set up your environment for us
 
 > TODO: Update tasks in the table of contents
 
-* [Task 1: ...](#task-1-)
-* [Task 2: ...](#task-2-)
-* [Task 3: ...](#task-3-)
+- [Task 1: ...](#task-1-)
+- [Task 2: ...](#task-2-)
+- [Task 3: ...](#task-3-)
 
 ### Task 1: Task name
 
@@ -46,7 +46,7 @@ In the Before the hands-on lab exercise, you will set up your environment for us
 
 You are now ready to complete the hands-on lab. Select a guide below to get started, or you can return to the overview page for the lab.
 
-* Complete Hands-on lab
-  * [Step-by-step guide](./HOL-step-by-step-LAB-NAME.md)
-  * [Unguided guide](./HOL-unguided-LAB-NAME.md)
-* Return to [Hands-on lab readme](./readme.md)
+- Complete Hands-on lab
+  - [Step-by-step guide](./HOL-step-by-step-LAB-NAME.md)
+  - [Unguided guide](./HOL-unguided-LAB-NAME.md)
+- Return to [Hands-on lab readme](./readme.md)

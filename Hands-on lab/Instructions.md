@@ -4,10 +4,10 @@ The template files contained in this directory provide the basic format and layo
 
 ## Contents
 
-* [Readme](#readme)
-* [Before the lab](#before-the-lab)
-* [HOL-step-by-step](#hol-step-by-step)
-* [HOL-unguided](#hol-unguided)
+- [Readme](#readme)
+- [Before the lab](#before-the-lab)
+- [HOL-step-by-step](#hol-step-by-step)
+- [HOL-unguided](#hol-unguided)
 
 ## Instructions
 
@@ -17,7 +17,7 @@ For each of the files specified below, follow the steps listed.
 
 1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
 2. In the Hands-on-lab/media folder, replace:
-    * **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
+    - **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
 3. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
 
 ### Before the lab
@@ -29,7 +29,7 @@ For each of the files specified below, follow the steps listed.
 
 1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
 2. In the Hands-on-lab/media folder, replace:
-    * **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
+    - **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
 3. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
 
 ### HOL-unguided

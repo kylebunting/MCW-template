@@ -4,8 +4,8 @@ The template files contained in this directory provide the basic format and layo
 
 ## Contents
 
-* [WDS-student-guide](./WDS-student-guide-LAB-NAME.md)
-* [WDS-trainer-guide](./WDS-trainer-guide-LAB-NAME.md)
+- [WDS-student-guide](./WDS-student-guide-LAB-NAME.md)
+- [WDS-trainer-guide](./WDS-trainer-guide-LAB-NAME.md)
 
 ## Instructions
 
@@ -14,8 +14,8 @@ The template files contained in this directory provide the basic format and layo
 1. Perform a case-sensitive replace on LAB-NAME, updating with the lab name using sentence casing (e.g., Intelligent vending machines).
 2. Perform a case-sensitive replace on lab-name, updating with your lab name using lowercase, kabob casing (e.g., intelligent-vending-machines).
 3. In the Whiteboard-design-session/media folder, replace:
-    * **common-scenarios.png** with the appropriate image for your lab, leaving the file name the same.
-    * **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
+    - **common-scenarios.png** with the appropriate image for your lab, leaving the file name the same.
+    - **preferred-solution-architecture.png** with the appropriate image for your lab, leaving the file name the same.
 4. Search for TODO and follow the instructions for each, inserting the section content appropriate for your lab.
 
 ### WDS-student-guide

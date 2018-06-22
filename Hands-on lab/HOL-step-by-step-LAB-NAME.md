@@ -21,21 +21,21 @@ If you have not yet completed the steps to set up your environment in [Before th
 
 > TODO: Insert your table of contents, using the below format
 
-* [Abstract](#abstract)
-* [Overview](#overview)
-* [Solution architecture](#solution-architecture)
-* [Requirements](#requirements)
-* [Exercise 1:](#exercise-1-)
-  * [Task 1:](#task-1-)
-  * [Task 2:](#task-2-)
-* [Exercise 2:](#exercise-2-)
-  * [Task 1:](#task-1-)
-  * [Task 2:](#task-2-)
-* [Exercise n:](#exercise-n-)
-  * [Task 1:](#task-1-)
-  * [Task 2:](#task-2-)
-* [After the hands-on lab](#after-the-hands-on-lab)
-  * [Task 1: Delete the resource group](#task-1-delete-the-resource-group)
+- [Abstract](#abstract)
+- [Overview](#overview)
+- [Solution architecture](#solution-architecture)
+- [Requirements](#requirements)
+- [Exercise 1:](#exercise-1-)
+  - [Task 1:](#task-1-)
+  - [Task 2:](#task-2-)
+- [Exercise 2:](#exercise-2-)
+  - [Task 1:](#task-1-)
+  - [Task 2:](#task-2-)
+- [Exercise n:](#exercise-n-)
+  - [Task 1:](#task-1-)
+  - [Task 2:](#task-2-)
+- [After the hands-on lab](#after-the-hands-on-lab)
+  - [Task 1: Delete the resource group](#task-1-delete-the-resource-group)
 
 ## Abstract
 
@@ -57,11 +57,11 @@ Below is a diagram of the solution architecture you will build in this lab. Plea
 
 > TODO: Insert requirements for your lab
 
-* Microsoft Azure subscription must be pay-as-you-go or MSDN
-  * Trial subscriptions will not work
-* A virtual machine configured with:
-  * ...
-  * ...
+- Microsoft Azure subscription must be pay-as-you-go or MSDN
+  - Trial subscriptions will not work
+- A virtual machine configured with:
+  - ...
+  - ...
 
 ## Exercise 1: Exercise name
 
